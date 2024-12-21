@@ -1,6 +1,6 @@
 - 👋 Olá, Sou Aderval Santiago
 - 👀 Estou interessado em Desenvolvimento web, Programação, Ciência de Dados e outros
-- 🌱 Atualmente estou estudando Python, HTML5, CSS3, JavaScript e Linux Debian
+- 🌱 Atualmente estou estudando Python, HTML5, CSS3, JavaScript, PHP e Linux Debian
 - 💞️ Quero colaborar em tudo que eu conseguir
 - 📫 Meus contatos são: email: adrvalfrb@gmail.com, Instagram: santiago.aderval
 - 😄 Pronouns: ...
