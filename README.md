@@ -3,8 +3,8 @@
 
 
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adersan&show_icons=true&theme=gruvbox&border_radius=10)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adersan&layout=donut&theme=gruvbox&border_radius=10))](https://github.com/anuraghazra/github-readme-stats)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adersan&show_icons=true&theme=dark&border_radius=10)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adersan&layout=donut&theme=dark&border_radius=10))](https://github.com/anuraghazra/github-readme-stats)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Aderval-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
