@@ -1,7 +1,7 @@
 <h2>👋 <a href="https://github.com/adersan">Olá, sou Aderval Santiago</a></h2>
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adersan&show_icons=true&theme=highcontrast&border_radius=10)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adersan&layout=donut&theme=dark&border_radius=10)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adersan&layout=donut&theme=highcontrast&border_radius=10)](https://github.com/anuraghazra/github-readme-stats)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Aderval-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
